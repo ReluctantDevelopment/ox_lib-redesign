@@ -21,7 +21,6 @@ const useStyles = createStyles(() => ({
     boxShadow: '0 14px 34px rgba(0, 0, 0, 0.55), inset 0 1px 0 rgba(255, 255, 255, 0.05)',
     borderRadius: 8,
     overflow: 'hidden',
-    backdropFilter: 'blur(2px)',
     '&::before': {
       content: '""',
       position: 'absolute',
